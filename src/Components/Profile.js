@@ -35,7 +35,7 @@ export const Profile = () => {
                     I did an internshipn Germany companys Campus, where I was a front-end developer on their projects.<br/>
                     I have experience in commercial projects.<br/>
 
-                    <strong>Main tech skills:</strong> HTML5, CSS3, Flexbox, SASS (SCSS), responsive and multi device layouts, BEM,<br/> Javascript (ES6+), React (React-Hooks), TypeScript, REST API, GraphQL, MongoDB, bootstrap v5,<br/> Redux, Styled Components, Axios, Figma, Github, Trello, Jira, VS Code<br/>
+                    <strong>Main tech skills:</strong> HTML5, CSS3, Flexbox, SASS (SCSS), responsive and multi device layouts, BEM,<br/> Javascript (ES6+), React (React-Hooks), TypeScript, REST API, GraphQL, Node.js, Express.js, MongoDB, bootstrap v5,<br/> Redux, Styled Components, Axios, Figma, Github, Trello, Jira, VS Code<br/>
 
                     <strong>Strong communication skills; teamwork skills</strong><br/>
 
