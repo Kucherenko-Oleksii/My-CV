@@ -1,56 +1,30 @@
 import React from "react";
+import { ContactInformation } from './ContactInformation';
 
 export const WorkExperience = () => {
     return(
         <div className='informationContainer'>
-            <div className='aboutMe'>
-            <div title='Oleksii Kucherenko' className='profilePhoto'/>
-            <h3>Oleksii Kucherenko</h3>
-            <p>Frontend developer at CyberBionic Systematics</p>
-                <div className='quote'>
-                    <p>
-                    Hi, if you got to my site, it means you are interested in me ;)<br/>
-                    Please take a few minutes of your time and read my resume.<br/> 
-                    I will be glad to get feedback from you)
-                    Thank you)
-                    </p>
-                </div>
-                <div className='contactInfo'>
-                    <p>
-                    Tel.: +38 (093) 611 01 87<br/>
-                    E-mail: kucherenkoolexiy@gmail.com
-                    </p>
-                </div>
-                <div className='socialPage'>
-                    <div className='linkedIn' onClick={() => {window.location = 'https://www.linkedin.com/in/oleksii-kucherenko-3543081a7/'}} title = 'linkedIn'/>
-                    <div className='telegram' onClick={() => {window.location = 'https://t.me/kucherenko_oleksii'}} title = 'Telegram'/>
-                    <div className='gitHub' onClick={() => {window.location = 'https://github.com/Kucherenko-Oleksii?tab=repositories'}} title = 'gitHub'/>
-                </div>
-            </div>
+            <ContactInformation/>         
             <div className='description'>
                 <h1>Work Experience</h1>
                 <p>
-                    Me experience in:<br/>
+                    My experience in:<br/>
                     <strong>CAMPUS:</strong><br/>
-                    I did an internship at the German CAMPUS training laboratory.<br/>
-                    I was engaged in the optimization of existing web applications and the development of new web-oriented systems to improve the learning process of students.<br/>
+                    I completed an internship at the German CAMPUS training laboratory where I optimized existing web applications and developed new web-oriented systems to improve the learning process for students.<br/>
+                    <strong>Stack: ReactJS, Bootstrap, SASS(SCSS), BEM, JS(ES6+), Webpack.</strong><br/>
+                    <em>(06/2020 - 06/2021)</em><br/><br/>
 
-                    Stack: ReactJS, Bootstrap, SASS(SCSS), BEM, JS(ES6+), Webpack.<br/>
-                    <em>(06/2020 - 06/2021)</em><br/>
                     <strong>GlobalLogic:</strong><br/>
-                    I was engaged in the development of web-oriented rating systems for product evaluation.<br/>
-                    Stack: ReactJS, Node.js, SASS(SCSS)<br/>
-                    Also developing a mobile fitness application using the React Native framework
-                    The user could easily choose a set of exercises, choose a personal trainer.
-                    Make an appointment for a consultation with a trainer, order a subscription to the gym.<br/>
-
-                    <em>(08/2021 - 12/2021)</em><br/>
+                    I have experience developing web-oriented rating systems for product evaluation.<br/> Additionally, I have developed a mobile fitness application using the React Native framework. <br/>The application allows users to easily choose a set of exercises, select a personal trainer, make an appointment for a consultation with a trainer, and order a subscription to the gym.<br/>
+        
+                    <strong>Stack: ReactJS, React Native, Node.js, Express.js, SASS(SCSS), MongoDB, Docker.</strong><br/>
+                    <em>(08/2021 - 12/2021)</em><br/><br/>
 
                     <strong>CyberBionic Systematics:</strong><br/>
-                    Frontend developer and frontend development trainer at CyberBionic Systematics.
-                    I develop landing and multi-page websites.<br/>
-                    ReactJS, HTML5&CSS3, SASS(SCSS), Redux technology stack.<br/>
-                    I am the author of the HTML5&CSS3 course.<br/>
+                    I am a Frontend Developer and Frontend Development Trainer at CyberBionic Systematics. My work involves developing landing pages and multi-page websites<br/>
+                
+                    <strong>Stack: ReactJS, HTML5&CSS3, BEM, SASS(SCSS), JS(ES2022), Redux, Git, Figma, Webpack, Docker, Node.js, Express.js.</strong><br/>
+                    I authored the course on HTML5&CSS3 fundamentals, which is focused on teaching the basics of web layout and design using HTML5 and CSS3 technologies.<br/>
 
                     <em>(07/2022 - now)</em>
                 </p>
