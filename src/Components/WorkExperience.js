@@ -10,23 +10,75 @@ export const WorkExperience = () => {
                 <p>
                     My experience in:<br/>
                     <strong>CAMPUS:</strong><br/>
-                    I completed an internship at the German CAMPUS training laboratory where I optimized existing web applications and developed new web-oriented systems to improve the learning process for students.<br/>
-                    <strong>Stack: ReactJS, Bootstrap, SASS(SCSS), BEM, JS(ES6+), Webpack.</strong><br/>
+                    <em><strong>(Front-end developer).</strong></em><br/>
+                    During my professional journey, I actively contributed to the development of
+                    innovative systems focused on enhancing the learning experience for
+                    students in higher education institutions, collaborating with interdisciplinary
+                    teams, I played a crucial role in analyzing requirements, designing intuitive
+                    user interfaces, and implementing robust functionality, by harnessing my
+                    front-end expertise, I delivered engaging and user-friendly interfaces that
+                    streamlined navigation and elevated overall user satisfaction.
+                    In addition to my involvement in educational systems, I immersed myself in
+                    the realm of website optimization and the creation of cutting-edge websites.
+                    With a keen eye for performance, I employed optimization techniques to
+                    boost page loading speed, optimize resource utilization, and ensure
+                    efficient code structure.<br/>
+
+                    <strong>Stack: PostgreSQL , GraphQL, Node.js, Bootstrap, SASS(SCSS), BEM, JS(ES6+), Webpack, SEO.</strong><br/>
+
                     <em>(06/2020 - 06/2021)</em><br/><br/>
 
                     <strong>GlobalLogic:</strong><br/>
-                    I have experience developing web-oriented rating systems for product evaluation.<br/> Additionally, I have developed a mobile fitness application using the React Native framework. <br/>The application allows users to easily choose a set of exercises, select a personal trainer, make an appointment for a consultation with a trainer, and order a subscription to the gym.<br/>
+                    <em><strong>(Front-end developer).</strong></em><br/>
+
+                    I have successfully developed web-oriented rating systems for product
+                    evaluation, further showcasing my expertise in building robust and usercentric applications. By leveraging technologies such as MongoDB,
+                    Node.js, SASS (SCSS), React, and React Native, I have delivered
+                    seamless and interactive platforms for users to evaluate and review various
+                    products.
+                    With MongoDB, a flexible and scalable NoSQL database, I efficiently stored
+                    and managed user ratings and reviews, ensuring optimal performance and
+                    data integrity.
+                    Moreover, I expanded my skill set by developing a mobile fitness
+                    application using the React Native framework. This application
+                    revolutionized the way users engage with fitness routines by providing a
+                    seamless mobile experience. Users can effortlessly choose a set of
+                    exercises, browse and select a personal trainer, schedule appointments for
+                    consultations, and even order gym subscriptions, all within the intuitive and
+                    user-friendly mobile application.<br/>
         
-                    <strong>Stack: ReactJS, React Native, Node.js, Express.js, SASS(SCSS), MongoDB, Docker.</strong><br/>
-                    <em>(08/2021 - 12/2021)</em><br/><br/>
+                    <strong>Stack: MongoDB, Express.js, Node.js, SASS (SCSS), React, Redux, React Native, SEO.</strong><br/>
+
+                    <em>(08/2021 - 02/2022)</em><br/><br/>
 
                     <strong>CyberBionic Systematics:</strong><br/>
-                    I am a Frontend Developer and Frontend Development Trainer at CyberBionic Systematics. My work involves developing landing pages and multi-page websites<br/>
-                
-                    <strong>Stack: ReactJS, HTML5&CSS3, BEM, SASS(SCSS), JS(ES2022), Redux, Git, Figma, Webpack, Docker, Node.js, Express.js.</strong><br/>
-                    I authored the course on HTML5&CSS3 fundamentals, which is focused on teaching the basics of web layout and design using HTML5 and CSS3 technologies.<br/>
+                    <em><strong>(Front-end developer & mentor).</strong></em><br/>
+                    I specialize in developing simulation systems for students, providing them
+                    with the opportunity to test their coding skills and gain practical experience
+                    in real-world scenarios.<br/> By creating interactive coding tasks and exercises,
+                    my aim is to foster a dynamic learning environment that encourages
+                    students to enhance their programming abilities and problem-solving skills.<br/>
+                    In addition to my work on simulation systems, I possess strong expertise in
+                    website optimization techniques, employ industry best practices to optimize
+                    website performance, focusing on improving loading times, minimizing file
+                    sizes, and implementing effective caching strategies.<br/>
+                    Moreover, teaching and sharing knowledge are my true passions. As a
+                    frontend development instructor, I guide and mentor a group of students in
+                    mastering the art of building modern web applications.<br/>
+                    I design comprehensive curriculum modules covering a wide range of
+                    topics, including HTML, CSS, JavaScript, and popular frontend
+                    frameworks such as React and Angular. Through hands-on exercises, code
+                    analysis, and collaborative projects, I empower my students to become
+                    skilled frontend developers capable of delivering high-quality, innovative
+                    solutions.<br/><br/>
+                    Combining my technical expertise in simulation systems development,
+                    website optimization, and frontend instruction, I offer a holistic skill set that
+                    encompasses both practical application and educational guidance in the
+                    field of frontend development.<br/>
 
-                    <em>(07/2022 - now)</em>
+                    <strong>Stack: ReactJS, HTML5&CSS3, BEM, SASS(SCSS), JS(ES2022), Redux, Git, Figma, Webpack, Docker, Node.js, Express.js.</strong><br/>
+                    
+                    <em>(08/2022 - now)</em>
                 </p>
                 <div className="figmaDescription">
                     <h2>My projects in Figma</h2>
